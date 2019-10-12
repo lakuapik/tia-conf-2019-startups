@@ -45,12 +45,12 @@ Yoda, a tech-enabled marketplace which pairs learners with educators, either loc
 
 ## China
 
-- [Social Pass & Sail Zan]()  
+- [Social Pass & Sail Zan](#)  
 A China-based company with brand SOCIAL PASS, introducing global resources to the Chinese companies, building bridges among them.
 
 ## Hong Kong
 
-- [Albert.](https://youralbert.com)  
+- [Albert.](https://www.youralbert.com)  
 Personalized mobile training for retail teams. We believe training should be accessible to all employees at all times. And animated with content deeply personalized to their targets. Albert brings back training to its initial purpose: Achieve your business objectives.
 
 - [Comparee](https://comparee.com)  
@@ -59,12 +59,12 @@ Asia's #1 Shopping Platform for International Brands powered by AI with 4B+ of d
 - [PerkPrices](https://perkprices.com)  
 AI-powered platform that offers businesses a more efficient way of reaching their customers by rewarding them with cashback as they shop.
 
-- [Securosys](https://securosys.com)  
+- [Securosys](https://www.securosys.com)  
 Primus Hardware Security Module protecting the Swiss banking system, blockchain, crypto assets solutions and Public Key Infrastructure Systems.
 
 ## India
 
-- [BECKFriends.com](https://beckfriends.com)  
+- [BECKFriends.com](https://www.beckfriends.com)  
 A traveler powered delivery marketplace enabling travelers to monetise their unused luggage space and shippers to send anything anywhere.
 
 - [Edukool](https://edukool.com)  
@@ -93,7 +93,7 @@ Exam Management System for School in Low Bandwith Area. No Installed and easily 
 - [AMORINA](https://amorinafarm.wordpress.com)  
 AMORINA ditujukan bagi Perempuan generasi millenials yang membutuhkan produk-produk alami yang baik untuk kecantikan dan kesehatan Produk kami AMORINA - Natural Healthy Natural Beauty with Spirulina dikembangkan berbasis riset yang dapat diproduksi skala besar untuk sumber nutrisi masyarakat karena menggunakan teknologi media kultur yang lebih murah dengan kajian penemuan bibit unggul Spirulina yang memiliki produktivitas yang tinggi Tidak seperti Spirulina dipasaran yang umumnya merupakan produk impor, produk kami diproduksi secara lokal, Ecofriendly, serta kandungan pigmen antioksidan yang lebih tinggi sehingga dapat meningkatkan nilai nutrisi dari produk yang dihasilkan.
 
-- [Antrilogi](https://antrilogi.com)  
+- [Antrilogi](http://antrilogi.com)  
 Antrilogi - A platform that challenges the conventional queue system through digital transformation to provide excellent queuing experience.
 
 - [Arkademi](https://arkademi.com)  
@@ -129,13 +129,13 @@ Bizshare is An Equity Crowdfunding Platform that helps Indonesian SMEs to get fu
 - [Bengkel Rumah](https://bengkelrumah.id)  
 Bengkel Rumah - Home Repair & Renovation.
 
-- [Blockchainworks](https://blockchainworks.com)  
+- [Blockchainworks](https://blockchain.works-hub.com)  
 Blockchain Solutions for Enterprise & Business Tokenization (Crypto-coin Generator).
 
-- [Booka]()  
+- [Booka](#)  
 Booka is startup that provide an interactive promotion tools for company based on their requested through an Augmented Reality.
 
-- [Booku]()  
+- [Booku](#)  
 An e-book bookstore where people can lend and donate e-books, so that everyone can read anything, anywhere, and anytime.
 
 - [Brum Indonesia](https://brum.id)  
@@ -162,7 +162,7 @@ Next Gen OTP for verification. Cutting security cost up to 75% and increase reli
 - [Chatbiz.id](https://chatbiz.id)  
 Chatbiz.id lets you create smart customer service chatbots with business tools in easy 5-mins setup. Cut operational costs up to 80%.
 
-- [Content Collision](https://contentcollision.co)  
+- [Content Collision](http://contentcollision.co)  
 Content Collision is an Asia-based content marketing agency, offering PR, blogging, and blogger network services.
 
 - [Corpora LMS](https://corpora.id)  
@@ -183,13 +183,13 @@ Datanest is a data science as a service startup helping companies to leverage th
 - [Dealio](https://dealio.id)  
 Dealio is a consumer engagement app that educates & entertains mobile Indonesian consumes also matches those target consumers to advertisers for marketing & research purposes.
 
-- [Deck](https://deck.id)  
+- [Deck](http://deck.id)  
 Deck combines all you need to promote yourself in a digital platform: your business card and portfolios.
 
 - [Digital Exchange Indonesia](https://digitalexchange.id/)  
 A Truly Exchange with The Fastest & Simplest Way to Buy, Sell & Manage your Digital Assets Securely.
 
-- [Dipena]()  
+- [Dipena](#)  
 Digitize Indonesia Business by Social Media based platform.
 
 - [DoctorTool](https://doctortool.id)  
@@ -204,7 +204,7 @@ Building a digital lending platform to facilitate the underserved consumer in In
 - [Dorenmi](https://dorenmi.com)  
 A startup which engaged in the marketplace/ e-commerce who provides an online rental platform that facilitate rental vendor/ owner with renter. We are focusing on car, motorcycle, tow truck, and heavy equipment rental.
 
-- [DoSoon IT]()  
+- [DoSoon IT](#)  
 Dosoon is a platform that helps tourists to connect with cultural villages in Indonesia and plays a direct role in the village development.
 
 - [Dreamaxtion](https://dreamaxtion.com)  
@@ -222,13 +222,13 @@ Dunia Tambang is a platform for meeting practitioners, mining companies, consult
 - [Eatever](https://eatever.com)  
 Eatever is a food-tech platform, connecting and managing local caterers to provide meals for corporate. We also operate central kitchen to maintain quality of the food provided by our caterers.
 
-- [Ekskalator]()  
+- [Ekskalator](#)  
 Ekskalator is a platform that brings people with ideas and investors that can work together to generate new businesses.
 
 - [Elabram Systems](https://elabram.com)  
 WMS helps companies to manage their workforce process. With a detailed but simple platform, taking care of employees may never be this easy. We got your back!
 
-- [Elextra 4D](www.elextra4d.com)  
+- [Elextra 4D](https://elextra4d.com)  
 Elextra 4D is an educational application that can display interactive 3-dimensional animation with augmented reality technology on smartphones.
 
 - [Endeus.tv](https://endeus.tv)  
@@ -276,7 +276,7 @@ Geekhunter is helping tech company hires the right IT professional and helping I
 - [Giladiskon](https://giladiskon.com)  
 Giladiskon is the biggest community of shoppers in Indonesia. We help retailers bringing customers into store while aggregating data points from multiple industries.
 
-- [GOOD JOB](https://goodjob.co.id)  
+- [GOOD JOB](http://goodjob.co.id)  
 GOOD JOB is the solution to monitor team performance, improve work quality and turn work culture into more efficient and precise!
 
 - [GTalent.Asia](https://gtalent.asia)  
@@ -291,7 +291,7 @@ Goal-Based Robo-Advisor Platform. Enhancing people’s life through financial ed
 - [Helloilmare](https://helloilmare.com)  
 Est. in 2009, HelloIlmare has been focusing on sofa refurbishment and has since evolved to provide a fast and reliable reupholstery services, covering Jadetabek area.
 
-- [HiPajak](https://hijapak.id)  
+- [HiPajak](https://hipajak.id)  
 One Stop Solution Tax Apps for Digital Generation. Our Value is to drive full awareness to society about the necessity of tax planning instead of tax evasion.
 
 - [Honest Mining](https://honestmining.com)  
@@ -309,19 +309,19 @@ IMPORTIR.COM established in 2015. The idea came from the numbers of young people
 - [IndoGold](https://indogold.com)  
 IndoGold democratized gold investment access for people with secure custody and flexible gold based savings account.
 
-- [Indonesian Diaspora Connect](https://diasporaindonesia.org)  
+- [Indonesian Diaspora Connect](http://diasporaindonesia.org)  
 Indonesian Diaspora Connect, optimizing overseas Indonesian’s potential by connecting them with opportunities to contribute to the nation while living abroad.
 
-- [Infinite ERP](https://infinite-erp.co.id)  
+- [Infinite ERP](http://infinite-erp.co.id)  
 InfiniteERP is software as a service that can be customized for prototyping and deploy within an hour, customer requirements can be implemented into real application that will increase speed of ERP implementation as well as reduce significant cost.
 
-- [Infradigital Nusantara](https://infradigital.io)  
+- [Infradigital Nusantara](https://www.infradigital.io)  
 Infradigital Nusantara (Jaringan IDN) helps the educational institutions to manage their bills and enable parents to pay its fees online.
 
 - [INIAJA](https://iniaja.id)  
 Make, spend and control your money using only your finger.
 
-- [Inspira.Academy](https://inspira.academy)  
+- [Inspira.Academy](http://inspira.academy)  
 Empowering students to design, collaborate & create amazing things utilizing 3D printing, robotics, programming, electronics and STEM.
 
 - [Insura Media Solusi](https://insura.co.id)  
@@ -402,7 +402,7 @@ LEGALKU Digital is a Legal Tech Company, which will provide SME with legal and p
 - [Listrik GO](https://listrikgo.id)  
 Helping society on handling electricity matter faster and easier. Offering and educating society the importance of renewable energy.
 
-- [Local Places]()  
+- [Local Places](#)  
 Local Places search and discovery platform that direct people to places they are looking and get recommendation from friends.
 
 - [LOOPINC.ID](https://loopinc.id)  
@@ -420,7 +420,7 @@ E-commerce platform for sustainable economic empowerment of innovative and indep
 - [MAPID](https://mapid.io)  
 MAPID is Indonesian startup that strives to bring a real, me and the most complete, accurate, and reliable mapping ecosystem of Geographic Information System and Internet of Things on Earth and beyond.
 
-- [Mechanicq](https://echanicq.com)  
+- [Mechanicq](https://mechanicq.com)  
 Mehanicq or Mecha is the fast services with the best choices. It's an online application that helps service online motorbikes and cars.
 
 - [Modana](https://modana.id)  
@@ -447,7 +447,7 @@ We build our lovely app for helping university students, lecturer, and universit
 - [Nextbyte](https://nextbyte.co)  
 We are developing scalable technology for startups with transparent price.
 
-- [NEXT TI](https://next-ti.co.id)  
+- [NEXT TI](http://next-ti.co.id)  
 NEXT TI is a brand new tech firm, est. in 2017, member of Hana Financial Group-South Korea. Supported by Hana TI, IT devt and ops of HFG.
 
 - [Noompang](https://noompang.com)  
@@ -474,7 +474,7 @@ Penulis.ID provide and distribute contents, social media management, and video f
 - [Petloka](https://petloka.com)  
 The on demand app that enables you to connect, book, and pay a verified pet care services provider.
 
-- [Plato](https://plato.co.id)  
+- [Plato](http://plato.co.id)  
 Plato is Indonesia’s reliable, affordable, easy to access full stack online legal platform providing end-to-end legal solution for startup businesses in Indonesia.
 
 - [PLUTO](https://hipluto.com)  
@@ -489,10 +489,10 @@ Tokenized Real Estate Investment Platform. We aim to enable the crowd to invest 
 - [Punya Bersama](https://punyabersama.id)  
 we are two side-ways users platform based on website and apps that moved in financial technology especially equity crowdfunding, we take a part as a platform that will make someone who had business idea (initiator) and investor connected. As a platform we received and analyze business idea from initiator and facilitate investors who want to participate in that project, and make sure that investors can get their report as that business running.
 
-- [PT Bayanaka Hasta Pamungkas]()  
+- [PT Bayanaka Hasta Pamungkas](#)  
 Influencer Marketing Platform which helps brand reaching out more customer through influencer marketing and attractive deals.
 
-- [PT Domo Manajemen Grup]()  
+- [PT Domo Manajemen Grup](#)  
 Dynamic Business Concept, Trusted, Safety, High-Technology, Systemised, Profitable, Good Services, and Innovative!
 
 - [PT Nusantara Aplikasi Apartindo](https://nusaapartindo.com)  
@@ -558,7 +558,7 @@ tapfeedback is an online customer feedback survey tool. It is designed for compa
 - [Tauaf](https://tauaf.com)  
 Tauaf is online booking platform for umrah and halal travel.
 
-- [Tuvara](https://tuvara.id)  
+- [Tuvara](http://tuvara.id)  
 We design and provide space-saving premium furniture, made of Indonesian teak wood, by local craftsmen, for international market.
 
 - [teachin.id](https://teachin.id)  
@@ -573,13 +573,13 @@ Gamification of the primary school curriculum. Digital educational gaming, coope
 - [TheLorry](https://thelorry.com)  
 TheLorry is an on-demand logistics platform with experienced drivers to ensure all goods will be transported safely to final destination.
 
-- [Travinesia](https://travinesia.com)  
+- [Travinesia](https://www.travinesia.com)  
 Terinspirasi dari keindahan alam Indonesia yang terus berkembang. Travinesia mempertemukan traveler dengan banyak Agen Travel terbaik.
 
 - [Treya](https://treya.io)  
 Treya is a social platform for the travel industry by providing end-to-end solutions for both the travelers ('itinerary social media') and local tour operators (integrated booking system).
 
-- [Tunjuk Material](https://tunjukmaterial.com)  
+- [Tunjuk Material](http://tunjukmaterial.com)  
 Tunjuk Material is the building material and construction solution for all that provides integrated solutions to merchants, buyers, and suppliers.
 
 - [UrbanAce](https://urbanace.com)  
@@ -600,7 +600,7 @@ A bit of liberty to explore your world.
 - [WAWA](https://wawa.games)  
 Indonesia’s first live gaming arcade app, positioned to disrupt the family entertainment industry and beyond with our revolutionary IoT-enabled platform.
 
-- [WePlay](https://webplay.id)  
+- [WePlay](http://weplay.id)  
 WePlay aim to revolutionize the sporting scene in Indonesia by connecting players to allow matchmaking and players finding.
 
 - [WINNERZZ](https://winnerzz.net)  
@@ -620,7 +620,7 @@ KanRails is kanban workflow management software with automation and collaboratio
 - [Hargapedia](https://askhargapedia.com)  
 Hargapedia is Malaysia's leading grocery price comparison app. Big data insights into consumer's shopping behaviour and pattern.
 
-- [My Aone Learning](https://myaone.my)  
+- [My Aone Learning](https://www.myaone.my)  
 AOneSchools is a B2B Software-as-a-Service for learning centres in Southeast Asia, as well as we provide e-payment & online marketplace for all local classes in the region.
 
 - [Pomen](https://www.pomenapp.com)  
@@ -651,7 +651,7 @@ Revolutionize remittance through digital transformation of brick-and-mortar MSME
 
 # Singapore
 
-- [APEX SMART TECHNOLOGY PTE LTD](https://apextechspore.com/)  
+- [APEX SMART TECHNOLOGY PTE LTD](http://apextechspore.com/)  
 Shaping a smarter tomorrow.
 
 - [Awesell](https://awesell.com)  
@@ -666,7 +666,7 @@ Empowering 300 Million S.E.A mobile gamers to compete for cash prizes through da
 - [Ctrl Alt Del](https://cad.sg)  
 Ctrl Alt Del serve to provide ERP solution across all industry for South East Asia.
 
-- [Financial Butler](https://butlerfinancialservices.com)  
+- [Financial Butler](http://butlerfinancialservices.com)  
 Butler simplifies Personal Finance. Aggregating users’ financial data, our goal-based analysis & AI personalize products to users’ needs and affordability.
 
 - [Hagel Club](https://hagel.club)  
@@ -687,7 +687,7 @@ KAI is an upsell tool for hotels to increase ancillary revenue through upselling
 - [Lily & Lou](https://lilyandlou.com)  
 Lily & Lou aims to revolutionize fashion through the use of technology. Our goal is to achieve sustainability and to empower women to create their own personalized wardrobe.
 
-- [Logchain Protocol](https://logchainprotocol.com)  
+- [Logchain Protocol](http://logchainprotocol.com)  
 Unified AI-assisted bidding platform with operational process controls, utilising machine-learning tech, encrypted data storage and verification functionalities
 
 - [MagLoft](https://magloft.com)  
@@ -720,7 +720,7 @@ Our Service solves Business Trip problems. 3 main features are Smart Suggestion,
 - [Travelstop](https://travelstop.com)  
 We make it easy to manage your business trips, automate your expense reporting and provide meaningful insights
 
-- [Van Keegel Technologies](https://van-technologies.com)  
+- [Van Keegel Technologies](#)  
 Changing the way we see the world, though the lens of Augmented Reality.
 
 - [YOGARENA](https://yogarena.com)  
@@ -740,7 +740,7 @@ Real-time Interactive Learning Platform using Cartoon Characters - Book Developm
 
 ## Taiwan
 
-- [Startup Terrace](https://startupterrace.tw)  
+- [Startup Terrace](https://www.startupterrace.tw)  
 Innovation of Future City Creativity of Startups. Connecting to Taiwan Startup Ecosystem with NiEA from Taiwan Startup Terrace
 
 ## Thailand
