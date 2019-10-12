@@ -75,6 +75,9 @@ SmatBot is an AI chatbot building platform to build lead generation, customer su
 
 ## Indonesia
 
+- [AbiNuwas](https://abinuwas.com)  
+Umrah and Halal Tourism One Stop Platform Services for Moslem Traveller.
+
 - [AdaGudang](https://adagudang.com)  
 Adagudang is an ONLINE WAREHOUSING MARKETPLACE application to rent a warehouse/space in order to maximize efficiency and cost.
 
@@ -110,9 +113,6 @@ Belanga Indonesia, Community-based media that increase Indonesian pride of culin
 
 - [Belipart](https://belipart.com)  
 Bringing transparency and standardization across Indonesia's motorcycle parts industry through a content-based, e-commerce platform.
-
-- [Bijak]()  
-A NEW way to get YOUR bookkeeping and taxation done easily and conveniently.
 
 - [Bitocto](https://bitocto.com)  
 A Simple & Secure Cryptocurrency Exchange. Bringing unique crypto assets to your fingertips at anytime and anywhere with lower fees!
@@ -150,6 +150,12 @@ A marketplace for traditional & modern wedding vendors. Just a click away and ge
 - [Cartalog](https://cartalog.id)  
 Cartalog is a marketplace for Automobile platforms that use Revolutionary Artificial Intelligence Technology. The technology is used to provide fair prices to all players in the Automotive Industry. In addition, Cartalog gives solutions for all customers in the Automotive ecosystem, including dealers, Insurance, multi-finance companies, partner workshops, and providers Independent and trusted inspection service.
 
+- [Catcha](https://catchajob.co.id)  
+The First Platform that deliver Accurate and Direct offer of financial products. Not just estimation or information; a Live, Real Pricelist.
+
+- [CintaID](https://cinta.id)  
+Lakukan Semua Dengan Cinta.
+
 - [Citcall](https://citcall.com)  
 Next Gen OTP for verification. Cutting security cost up to 75% and increase reliability by 60% (compare to sms & other method).
 
@@ -168,14 +174,20 @@ Crewdible is a network of micro fulfilment warehouses that help e-commerce selle
 - [Dable](https://dable.io)  
 Dable is a content discovery platform, which aims to connect users, media and content.
 
+- [Dana Bijak](https://danabijak.com)  
+A NEW way to get YOUR bookkeeping and taxation done easily and conveniently.
+
 - [Datanest](https://datanest.io)  
 Datanest is a data science as a service startup helping companies to leverage their data through AI and Machine Learning Algorithm.
 
 - [Dealio](https://dealio.id)  
 Dealio is a consumer engagement app that educates & entertains mobile Indonesian consumes also matches those target consumers to advertisers for marketing & research purposes.
 
-- [Deck]()  
+- [Deck](https://deck.id)  
 Deck combines all you need to promote yourself in a digital platform: your business card and portfolios.
+
+- [Digital Exchange Indonesia](https://digitalexchange.id/)  
+A Truly Exchange with The Fastest & Simplest Way to Buy, Sell & Manage your Digital Assets Securely.
 
 - [Dipena]()  
 Digitize Indonesia Business by Social Media based platform.
@@ -203,6 +215,9 @@ Duitku is an online payment solutions. We offer online payment coverage for user
 
 - [Duha Syariah](https://duhasyariah.com)  
 Duha Syariah - Fintech Lending Sharia (P2PL Sharia).
+
+- [Dunia Tambang](https://duniatambang.co.id)  
+Dunia Tambang is a platform for meeting practitioners, mining companies, consultants and mining contractors to find and share information, provide solutions, and about data mining in Indonesia.
 
 - [Eatever](https://eatever.com)  
 Eatever is a food-tech platform, connecting and managing local caterers to provide meals for corporate. We also operate central kitchen to maintain quality of the food provided by our caterers.
@@ -276,6 +291,9 @@ Goal-Based Robo-Advisor Platform. Enhancing people’s life through financial ed
 - [Helloilmare](https://helloilmare.com)  
 Est. in 2009, HelloIlmare has been focusing on sofa refurbishment and has since evolved to provide a fast and reliable reupholstery services, covering Jadetabek area.
 
+- [HiPajak](https://hijapak.id)  
+One Stop Solution Tax Apps for Digital Generation. Our Value is to drive full awareness to society about the necessity of tax planning instead of tax evasion.
+
 - [Honest Mining](https://honestmining.com)  
 Honest Mining helps people & institutions grow their cryptocurrency asset by staking. It is South East Asia's 1st staking service provider.
 
@@ -315,13 +333,16 @@ Invyt is the economy sharing, between venues, vendors and people who want to mak
 - [Jari](https://jari.com)  
 For financial institution who have difficulties on field collection, Jari have the solution to control and reduce fraud.
 
+- [Jasamart](https://jasamart.com)  
+Hire all kinds of service providers just clicks away.
+
 - [Jubelio](https://jubelio.com)  
 Jubelio.com is a cloud based solution for multichannel eCommerce sales management that is tailored for Indonesia online marketplaces.
 
 - [Kandang.in](https://kandang.in)  
 Kandang.in is end to end solution for livestock industry. We provide financial technology platform, AgTech and smart farming technology.
 
-- [Keeppack]()  
+- [Keeppack](https://keeppack.id)  
 Keeppack is OYO for warehouses. Helping entrepreneurs in Indonesia optimize their business processes.
 
 - [Kemazan](https://kemazan.com)  
@@ -330,7 +351,7 @@ We specialize in logo & packaging design services for small & medium businesses 
 - [keppo](https://play.google.com/store/apps/details?id=balongdev.keppo.kingdom)  
 keppo! Social game life simulation find a new friends and make your good life in keppo!
 
- - [Kerjaholic](https://kerjaholic.com)  
+- [Kerjaholic](https://kerjaholic.com)  
 Work and Hire Instantly. On Demand Freelance Workers.
 
 - [Kestingrum](https://kestingrum.com)  
@@ -353,6 +374,15 @@ All in one property management and booking system.
 
 - [KOTAMAYA](https://kotamaya.co)  
 Kotamaya is a 3D virtual city application which every user owns avatar to shop, sell, play, and socialize with real-world city sensations.
+
+- [Kredit Impian](https://kreditimpian.com)  
+A platform that links society and merchants in one financial institution.
+
+- [kulakikan](https://kulakikan.com)  
+Belanja tanpa harus ke pasar! Shopping without going to the market!
+
+- [Lacak.io](https://lacak.io)  
+Providing fleet management solution that focusing on reducing operational cost by having digitalized fleet to improve efficiency and safety.
 
 - [Laparaga](https://laparaga.com)  
 Sports Venues Booking App. Daftarkan lapangan olahragamu dan dapatkan lebih banyak pesanan.
@@ -426,20 +456,8 @@ Noompang is the first on-the-way service in Indonesia where people can share the
 - [Orento](https://orento.id)  
 Long-term property rental platform and marketplace that support hosts and tenants across Indonesia with a seamless renting experience.
 
-- [Qampus](https://qampus.net)  
-Integrated school, learning and humanresources apps.
-
-- [Rumah Pintar](https://rumahpintar.id)  
-"ONE STOP SMART HOME SOLUTION" Leading & trending Smart Home devices and Smart Home installation services in Indonesia.
-
-- [SIMAK Online](https://simak-online.com)  
-School information system that save teachers time, save schools budget, learning tools for students and help parents to monitor activities.
-
-- [Solusi Duka](https://solusiduka.com)  
-SolusiDuka.com adalah e-commerce pertama yang menghubungkan pengguna dan penyedia barang & jasa di bidang kedukaan secara online dengan kategori terlengkap.
-
-- [STUDILMU](https://studilmu.com)  
-STUDILMU is your professional one-stop solution learning partner. We provide end-to-end learning solutions, such as online courses, LMS, classroom training programs, etc.
+- [Osvas](https://osvas.com)  
+One-stop Integrated real estate platform for omnichannel marketing & managing inventory creating a real-time streamlined user experience.
 
 - [Parjo](https://parjo.id)  
 Social Marketplace Platform for Automotive Enthusiasts and Local Creative.
@@ -459,6 +477,9 @@ The on demand app that enables you to connect, book, and pay a verified pet care
 - [Plato](https://plato.co.id)  
 Plato is Indonesia’s reliable, affordable, easy to access full stack online legal platform providing end-to-end legal solution for startup businesses in Indonesia.
 
+- [PLUTO](https://hipluto.com)  
+Mobile platform to honor and reward the most creditworthy people in emerging markets.
+
 - [Pma Group](https://pma-g.com)  
 Pma-g.com is a 2d and 3d game developer company with quality standards.
 
@@ -471,56 +492,17 @@ we are two side-ways users platform based on website and apps that moved in fina
 - [PT Bayanaka Hasta Pamungkas]()  
 Influencer Marketing Platform which helps brand reaching out more customer through influencer marketing and attractive deals.
 
-- [PT Catcha Lintas Media]()  
-The First Platform that deliver Accurate and Direct offer of financial products. Not just estimation or information; a Live, Real Pricelist.
-
-- [PT Cipta Inovatif Abadi]()  
-Lakukan Semua Dengan Cinta.
-
-- [PT Dunia Tambang Digital]()  
-Dunia Tambang is a platform for meeting practitioners, mining companies, consultants and mining contractors to find and share information, provide solutions, and about data mining in Indonesia.
-
-- [PT Duta Usaha Optima]()  
-Belanja tanpa harus ke pasar! Shopping without going to the market!
-
 - [PT Domo Manajemen Grup]()  
 Dynamic Business Concept, Trusted, Safety, High-Technology, Systemised, Profitable, Good Services, and Innovative!
 
-- [PT Global Millennial Abadi]()  
-As a developing country, Indonesia have a lot of MSMEs that will expand their business. Unfortunately in 2017 based on PwC data, 74% MSMEs have a lack of financing access. Several alternative financing options can be chosen by them, like bank credit or micro credit program (KUR). However those options has a flat interest payback rate and also collateral. Consequently VIGMA provide an equity crowdfunding platform for MSMEs to issues their share to the public. Therefore MSMEs will raising fund for their business development and people who want have a business can invest their capital in MSMEs. Then MSMEs have to distribute a dividend for their each investors. In addition, VIGMA will develop a financial tracker system to simplify the accountancy of MSMEs business, so that investors also easily to read their financial statement.
-
-- [PT Hilari Hitec Dinamis]()  
-A platform that links society and merchants in one financial institution.
-
-- [PT Indonesia Digital Exchange]()  
-A Truly Exchange with The Fastest & Simplest Way to Buy, Sell & Manage your Digital Assets Securely.
-
-- [PT Investa Hipa Teknologi]()  
-One Stop Solution Tax Apps for Digital Generation. Our Value is to drive full awareness to society about the necessity of tax planning instead of tax evasion.
-
-- [PT Jasamart Digital Solusi]()  
-Hire all kinds of service providers just clicks away.
-
-- [PT Kanvas Ruang Kantor]()  
-One-stop Integrated real estate platform for omnichannel marketing & managing inventory creating a real-time streamlined user experience.
-
-- [PT Kayu Kreatif Indonesia]()  
-We design and provide space-saving premium furniture, made of Indonesian teak wood, by local craftsmen, for international market.
-
-- [PT LACAK CIPTA AKTUAL]()  
-Providing fleet management solution that focusing on reducing operational cost by having digitalized fleet to improve efficiency and safety.
-
-- [PT Merlott Inovasi Teknologi]()  
-Umrah and Halal Tourism One Stop Platform Services for Moslem Traveller.
-
-- [PT Nusantara Aplikasi Apartindo]()  
+- [PT Nusantara Aplikasi Apartindo](https://nusaapartindo.com)  
 Residential community apps which form an integrated ecosystem that roots in the community, environment and its stakeholder.
-
-- [PT Pluto Indo Optima]()  
-Mobile platform to honor and reward the most creditworthy people in emerging markets.
 
 - [PTN Go](https://ptngo.com)  
 PTN Go merupakan Aplikasi jitu belajar cepat untuk persiapan UTBK SBMPTN.
+
+- [Qampus](https://qampus.net)  
+Integrated school, learning and humanresources apps.
 
 - [Qiriman](https://qiriman.com)  
 Qiriman is marketplace platform we can called it "one stop solution" logistic and transportation. We provide logistic and transportation needs.
@@ -531,13 +513,19 @@ Qontak.com is a leading sales technology solution providing CRM automation and m
 - [Ruanganak](https://ruanganak.id)  
 Ruanganak is the 1st platform in Indonesia that's equipped with child developmental reports, RFID, and GPS tracker to monitor children's position.
 
+- [Rumah Pintar](https://rumahpintar.id)  
+"ONE STOP SMART HOME SOLUTION" Leading & trending Smart Home devices and Smart Home installation services in Indonesia.
+
 - [SEPRAN](https://play.google.com/store/apps/details?id=com.jmc.catatankeuangan)  
 Sepran was created from the need for simple and easy-to-use financial records which prioritizes security and data continuity.
 
 - [SERTIMEDIA](https://sertimedia.com)  
 SERTIMEDIA is a professional App equipped by AI technology to help companies and professionals to link, analyze and communicate personally.
 
-- [Sinergi Teknologi Terpadu Indonesia]()  
+- [SIMAK Online](https://simak-online.com)  
+School information system that save teachers time, save schools budget, learning tools for students and help parents to monitor activities.
+
+- [Sinergi Teknologi Terpadu Indonesia](https://sinergiteknologi.co.id)  
 We aim to help local fleet companies to grow their business faster through digitalization with all in one transportation logistic solution platform and integrated IoT.
 
 - [SKOR](https://skorpoints.com)  
@@ -549,8 +537,14 @@ SKWAD is a digital media that strives to build communities around the topics of 
 - [Smash](https://smash.id)  
 Smash.id is an integrated app for trash management in Indonesia.
 
+- [Solusi Duka](https://solusiduka.com)  
+SolusiDuka.com adalah e-commerce pertama yang menghubungkan pengguna dan penyedia barang & jasa di bidang kedukaan secara online dengan kategori terlengkap.
+
 - [Sociolify](https://sociolify.com)  
 Broadcast Your Wifi Reach Out New Customers! Treat Customers with FREE Wifi, Word of Mouth Promotion for Your Business Turn your free wifi into simple customer relationship management.
+
+- [STUDILMU](https://studilmu.com)  
+STUDILMU is your professional one-stop solution learning partner. We provide end-to-end learning solutions, such as online courses, LMS, classroom training programs, etc.
 
 - [SUGAR Technology](https://sugar.technology)  
 SUGAR Technology strives to innovate and simplify people's lives through R&D and the experimentation of new technology while giving back to social causes.
@@ -563,6 +557,9 @@ tapfeedback is an online customer feedback survey tool. It is designed for compa
 
 - [Tauaf](https://tauaf.com)  
 Tauaf is online booking platform for umrah and halal travel.
+
+- [Tuvara](https://tuvara.id)  
+We design and provide space-saving premium furniture, made of Indonesian teak wood, by local craftsmen, for international market.
 
 - [teachin.id](https://teachin.id)  
 Our target is to help educators, teachers and schools to get connected in single platform which they can have access to information.
@@ -594,13 +591,16 @@ A new way to connect investors and entrepreneurs. Business owners who need capit
 - [Vestor Academy](https://vestor.syebapustaka.com)  
 Online learning platform for business, IT related, investment and career development by professionals and best practitioners.
 
+- [VIGMA](https://vigma.co.id)  
+As a developing country, Indonesia have a lot of MSMEs that will expand their business. Unfortunately in 2017 based on PwC data, 74% MSMEs have a lack of financing access. Several alternative financing options can be chosen by them, like bank credit or micro credit program (KUR). However those options has a flat interest payback rate and also collateral. Consequently VIGMA provide an equity crowdfunding platform for MSMEs to issues their share to the public. Therefore MSMEs will raising fund for their business development and people who want have a business can invest their capital in MSMEs. Then MSMEs have to distribute a dividend for their each investors. In addition, VIGMA will develop a financial tracker system to simplify the accountancy of MSMEs business, so that investors also easily to read their financial statement.
+
 - [VRENT](https://www.e-viar.com/vrent)  
 A bit of liberty to explore your world.
 
 - [WAWA](https://wawa.games)  
 Indonesia’s first live gaming arcade app, positioned to disrupt the family entertainment industry and beyond with our revolutionary IoT-enabled platform.
 
-- [WePlay]()  
+- [WePlay](https://webplay.id)  
 WePlay aim to revolutionize the sporting scene in Indonesia by connecting players to allow matchmaking and players finding.
 
 - [WINNERZZ](https://winnerzz.net)  
@@ -675,7 +675,7 @@ Because everyone else is on fixed price.
 - [Haulio](https://haulio.io)  
 As Singapore’s largest network of haulage services, Haulio enables hauliers through technology, while improving visibility and reliability for end-customers.
 
-- [I Wanna Go]()  
+- [I Wanna Go](https://iwannago.sg)  
 I Wanna Go is Asia's newest cloud based event management platform for conferences conventions and exhibitions.
 
 - [Intribe](https://intribe.co)  
@@ -734,7 +734,7 @@ AITRICS provides beyond the AI solution to impeccable experience with its global
 - [Marade Corp](https://maradecorp.com)  
 Marade is a real-time video chat app that connects people around the world using WebRTC and vision ML tech.
 
-- [Mini School]()  
+- [Mini School](https://minischool.co.kr)  
 Real-time Interactive Learning Platform using Cartoon Characters - Book Development Tool on the Web.
 
 
